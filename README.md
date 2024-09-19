@@ -24,7 +24,7 @@ The dataset is from [Kaggle](https://www.kaggle.com/datasets/yichienchong/databe
 #### Methodology
 The project followed the **CRISP-DM** framework:
 1. **Business Understanding**: Identify key factors contributing to churn and develop models to predict high-risk customers.
-2. **Data Understanding**: undrestand the data further.
+2. **Data Understanding**: Gain a deeper understanding of the dataset, including the relationships between features and identifying potential data quality issues..
 3. **Data Preparation**: Clean, preprocess, and encode the dataset to make it suitable for machine learning.
 4. **Modeling**: Use machine learning algorithms including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), Decision Tree, Random Forest, and Gradient Boosting to build churn prediction models.
 5. **Evaluation**: Evaluate models based on accuracy, precision, recall, F1-score, and ROC-AUC scores.
